@@ -1,5 +1,5 @@
 programa
-{
+{//oi
 
 //ler um número não determinado de valores e calcular e escrever a média dos valores, qtd de positivos
     //qtd de negativos e o percentual de negativos e positivos
